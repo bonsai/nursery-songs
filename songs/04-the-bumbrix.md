@@ -23,9 +23,9 @@ He rolled onto the trapeeze,
 **Chorus**
 
 Bumbrix, bumbrix, round and round,
-　　you are not the cleverest thing in town.
+　　cleverest in town.
 Bumbrix, bumbrix, up and down,
-　　you are only a ball. You were never a clown.
+　　only a ball. Never a clown.
 
 **2**
 

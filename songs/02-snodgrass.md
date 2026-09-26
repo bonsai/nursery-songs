@@ -25,8 +25,7 @@ It said, "I will not move,"
 
 Snodgrass, snodgrass, standing in the rain,
 　　everybody's asking, "Are you all right?"
-Snodgrass, snodgrass, never said a word,
-　　and it is standing there to this day, I've heard.
+Snodgrass never said a word. It's still there.
 
 **2**
 

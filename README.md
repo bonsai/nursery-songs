@@ -15,6 +15,17 @@ Written for children aged roughly three to six.
 | 3 | **[Plonk](songs/03-plonk.md)** | makes one noise until the room empties |
 | 4 | **[The Bumbrix](songs/04-the-bumbrix.md)** | wants to be a person, is a ball |
 | 5 | **[Wibbledoo](songs/05-wibbledoo.md)** | will not fall asleep |
+| 6 | **[Pomelo](songs/06-pomelo.txt)** | buys a fruit that will not be identified |
+
+Lyrics are plain `.txt` where a song has no house documentation, `.md` where it
+carries a hook table and singing notes. Both are valid input to the tooling.
+
+## Making them into recordings
+
+**[suno/ →](suno/README.md)** holds paste-ready Suno exports for all six songs,
+already tagged with `[Verse]` / `[Chorus]` / `[Outro]` and matched to a
+deadpan / wink / lullaby style prompt. Regenerate any of them with the `suno`
+skill.
 
 ## Writing one
 

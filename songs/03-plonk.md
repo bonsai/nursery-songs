@@ -23,10 +23,9 @@ Plonk went the spoon in the cup, one night,
 
 **Chorus**
 
-Plonk, plonk, plonk, said the spoon in the cup,
+Plonk, plonk, plonk, in the cup,
 　　"nobody told me anything."
-Plonk, plonk, plonk, said the spoon in the cup,
-　　and then the spoon fell in.
+Plonk, plonk, plonk — and the spoon fell in.
 
 **2**
 
