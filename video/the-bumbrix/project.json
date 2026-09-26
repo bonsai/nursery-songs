@@ -1,0 +1,33 @@
+{
+  "composition": {
+    "duration": 90.7,
+    "fps": 30
+  },
+  "effects": [],
+  "schemaRef": "bonsai/video-editor packages/schema/project.schema.json",
+  "meta": {
+    "title": "The Bumbrix",
+    "slug": "the-bumbrix",
+    "theme": "wanting very much to be somebody, and being a round thing.",
+    "source": "04-the-bumbrix.md",
+    "words": 189,
+    "verses": 4,
+    "choruses": 4,
+    "hook": "Bumbrix, bumbrix, round and round,",
+    "wpm": 125.0
+  },
+  "audio": {
+    "engine": "windows-sapi",
+    "voice": "Microsoft Heera",
+    "culture": "en-IN",
+    "target_seconds": 90.7,
+    "skill": "en-in",
+    "command": "tts.ps1 -Text \"songs/04-the-bumbrix.md\" -Out \"video/the-bumbrix/narration.mp3\" -TargetSeconds 90.7"
+  },
+  "music": {
+    "source": "suno",
+    "register": "deadpan",
+    "style_prompt": "deadpan acoustic children's folk, ukulele, brushed snare, single female voice, 96 BPM, no backing vocals, no harmony stacks, no build, no big finish, no autotune, no strings",
+    "lyrics_ref": "suno/the-bumbrix.suno.txt"
+  }
+}

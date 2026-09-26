@@ -1,0 +1,33 @@
+{
+  "composition": {
+    "duration": 78.7,
+    "fps": 30
+  },
+  "effects": [],
+  "schemaRef": "bonsai/video-editor packages/schema/project.schema.json",
+  "meta": {
+    "title": "The Gizzmidge",
+    "slug": "the-gizzmidge",
+    "theme": "doing nothing important, and being ignored by the whole world.",
+    "source": "01-the-gizzmidge.md",
+    "words": 164,
+    "verses": 4,
+    "choruses": 4,
+    "hook": "Gizzmidge, gizzmidge, gizzmidge,",
+    "wpm": 125.0
+  },
+  "audio": {
+    "engine": "windows-sapi",
+    "voice": "Microsoft Heera",
+    "culture": "en-IN",
+    "target_seconds": 78.7,
+    "skill": "en-in",
+    "command": "tts.ps1 -Text \"songs/01-the-gizzmidge.md\" -Out \"video/the-gizzmidge/narration.mp3\" -TargetSeconds 78.7"
+  },
+  "music": {
+    "source": "suno",
+    "register": "deadpan",
+    "style_prompt": "deadpan acoustic children's folk, ukulele, brushed snare, single female voice, 96 BPM, no backing vocals, no harmony stacks, no build, no big finish, no autotune, no strings",
+    "lyrics_ref": "suno/the-gizzmidge.suno.txt"
+  }
+}

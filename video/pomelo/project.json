@@ -1,0 +1,33 @@
+{
+  "composition": {
+    "duration": 97.0,
+    "fps": 30
+  },
+  "effects": [],
+  "schemaRef": "bonsai/video-editor packages/schema/project.schema.json",
+  "meta": {
+    "title": "I bought a fruit at the shop on a Friday,",
+    "slug": "pomelo",
+    "theme": "buying a fruit that will not be identified",
+    "source": "06-pomelo.txt",
+    "words": 202,
+    "verses": 4,
+    "choruses": 4,
+    "hook": "What's your name? — Pomelo.",
+    "wpm": 125.0
+  },
+  "audio": {
+    "engine": "windows-sapi",
+    "voice": "Microsoft Heera",
+    "culture": "en-IN",
+    "target_seconds": 97.0,
+    "skill": "en-in",
+    "command": "tts.ps1 -Text \"songs/06-pomelo.txt\" -Out \"video/pomelo/narration.mp3\" -TargetSeconds 97"
+  },
+  "music": {
+    "source": "suno",
+    "register": "wink",
+    "style_prompt": "playful acoustic children's folk, ukulele, hand claps, single female voice, 104 BPM, no backing vocals, no big finish, no autotune",
+    "lyrics_ref": "suno/pomelo.suno.txt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "composition": {
+    "duration": 90.2,
+    "fps": 30
+  },
+  "effects": [],
+  "schemaRef": "bonsai/video-editor packages/schema/project.schema.json",
+  "meta": {
+    "title": "Wibbledoo",
+    "slug": "wibbledoo",
+    "theme": "refusing to fall asleep, and the strange company that keeps you up.",
+    "source": "05-wibbledoo.md",
+    "words": 188,
+    "verses": 5,
+    "choruses": 4,
+    "hook": "Wibbledoo, wibbledoo, nobody's asleep,",
+    "wpm": 125.0
+  },
+  "audio": {
+    "engine": "windows-sapi",
+    "voice": "Microsoft Heera",
+    "culture": "en-IN",
+    "target_seconds": 90.2,
+    "skill": "en-in",
+    "command": "tts.ps1 -Text \"songs/05-wibbledoo.md\" -Out \"video/wibbledoo/narration.mp3\" -TargetSeconds 90.2"
+  },
+  "music": {
+    "source": "suno",
+    "register": "lullaby",
+    "style_prompt": "lullaby, solo voice, felt piano, no drums, no percussion, 62 BPM, no backing vocals, no build, no big finish",
+    "lyrics_ref": "suno/wibbledoo.suno.txt"
+  }
+}
